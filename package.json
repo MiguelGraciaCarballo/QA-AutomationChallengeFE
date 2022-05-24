@@ -1,0 +1,17 @@
+{
+  "name": "fe-qachallenge",
+  "version": "1.0.0",
+  "description": "This project is part of the QA Tech Challenge where we have to implement a Web automation over a demo online shop: https://www.demoblaze.com/index.html",
+  "main": "main.js",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "expect-puppeteer": "^6.1.0",
+    "puppeteer": "^14.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
