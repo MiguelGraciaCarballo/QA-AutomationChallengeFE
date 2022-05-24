@@ -33,6 +33,10 @@ This project is part of the QA Tech Challenge where we have to implement a Web a
 **Libraries:** Puppeteer
 
     
+    
+    QA-AutomationChallengeFE
+    
+    
 ## Running Aplication
 
 To run the aplication, run the following command
