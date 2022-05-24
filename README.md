@@ -32,10 +32,26 @@ This project is part of the QA Tech Challenge where we have to implement a Web a
 
 **Libraries:** Puppeteer
 
-    
-    
-    QA-AutomationChallengeFE
-    
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/MiguelGraciaCarballo/QA-AutomationChallengeFE
+```
+
+Go to the project directory
+
+```bash
+  cd QA-AutomationChallengeFE
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
     
 ## Running Aplication
 
