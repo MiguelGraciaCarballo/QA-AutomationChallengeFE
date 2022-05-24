@@ -27,8 +27,11 @@ This project is part of the QA Tech Challenge where we have to implement a Web a
 ## Tech Stack
 
 **Programming Language:** Javascript
+
 **Server:** Node.js
+
 **Libraries:** Puppeteer
+
     
 ## Running Aplication
 
